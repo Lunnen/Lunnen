@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <img src="https://github.com/Lunnen/Lunnen/blob/main/profile.png" align="left" width="150" height="150"/>
-- 🔭 I’m currently a student at EC utbildning in Ronneby/Växjö Aug 2020 - Apr 2022</br>
-- 🌱 I’m currently learning Java, JavaScript, Kotlin, Dart/Flutter...</br>
+- 🌱 Focusing on App development in Swift, Kotlin and Dart/Flutter...</br>
 - ⚡ Fun fact: “Java is to JavaScript what car is to Carpet.”</br>
 -->
 </br></br></br>
